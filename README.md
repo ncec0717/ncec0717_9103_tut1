@@ -10,5 +10,5 @@ Hello World!
 **I'm bold** __So am I__
 
 - My List
-    -indented items
--more items!
+    - indented items
+- more items!
